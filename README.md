@@ -1,3 +1,1 @@
-# GAME3001-W2021-Lab 10
-
-This is a demo project for Lab 10
+# GAME3001_Lab10_Ziwei_Wu
